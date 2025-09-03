@@ -1,0 +1,7 @@
+line-length = 120
+
+[lint]
+select = ["E", "F", "I"] # E=pycodestyle, F=pyflakes, I=isort
+
+[lint.isort]
+known-first-party = ["fastapi_tutorial"]

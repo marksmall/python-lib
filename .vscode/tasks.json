@@ -1,0 +1,19 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Lint & Format",
+      "type": "shell",
+      "command": "poetry run lint",
+      "group": "test",
+      "problemMatcher": []
+    },
+    {
+      "label": "Test",
+      "type": "shell",
+      "command": "poetry run test",
+      "group": "test",
+      "problemMatcher": []
+    }
+  ]
+}
