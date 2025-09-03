@@ -49,6 +49,3 @@ major_on_breaking_change = true
 minor_on_feat = true
 patch_on_fix = true
 commit_parser = "conventional"
-
-[tool.flake8]
-application-import-names = ["dsp_toolkit", "plugins"]
