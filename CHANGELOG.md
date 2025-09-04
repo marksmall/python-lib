@@ -2,6 +2,14 @@
 
 <!-- version list -->
 
+## v1.0.1 (2025-09-04)
+
+### Bug Fixes
+
+- **devops**: Update Github release workflow
+  ([`3420d3d`](https://github.com/marksmall/python-lib/commit/3420d3d573fda7737219adec205e3b34ff90085e))
+
+
 ## v1.0.0 (2025-09-04)
 
 ### Bug Fixes
