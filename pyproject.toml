@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dsp3-toolkit"
-version = "0.1.1"
+version = "1.0.0"
 description = "DSP shared toolkit for Python apps: CLI, logging, config, linting, plugins, and more."
 authors = ["Mark Small <marksmall@gmx.com>"]
 readme = "README.md"
