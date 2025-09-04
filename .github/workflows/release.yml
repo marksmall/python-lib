@@ -40,5 +40,6 @@ jobs:
         env:
           CI: true
         run: |
+          poetry run release version
           poetry run release publish
           poetry publish --username __token__ --password ${{ secrets.PYPI_TOKEN }}
